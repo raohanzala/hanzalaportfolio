@@ -545,6 +545,15 @@ box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.1);
   line-height: 1.4;
 }
 
+.award-card-img{
+  margin-bottom: 1.4rem;
+}
+.award-card-info{
+  font-size: 1.8rem;
+  text-align: center;
+  font-weight: 600;
+}
+
 /* ************* */
 /* SERVICE PAGE */
 /* ************* */
