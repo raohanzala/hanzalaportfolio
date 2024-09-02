@@ -545,7 +545,12 @@ box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.1);
   line-height: 1.4;
 }
 
+.section-award{
+  padding: 4.8rem 0;
+}
+
 .award-card-img{
+  padding: 1rem 2.2rem;
   margin-bottom: 1.4rem;
 }
 .award-card-info{

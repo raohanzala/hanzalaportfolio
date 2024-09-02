@@ -85,7 +85,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 0;
+    width: 100%;
     height: 0;
     overflow: hidden;
     margin-top: 7.5rem;
@@ -96,8 +96,8 @@
     z-index: 888;
     transition: all 0.5s;
     pointer-events: none;
-    opacity: 0;
-    visibility: hidden;
+    /* opacity: 0; */
+    /* visibility: hidden; */
   }
   
   .nav-links-custom {
@@ -112,10 +112,10 @@
   }
   
   .nav-open .nav-custom {
-    opacity: 1;
+    /* opacity: 1; */
     height: 100vh;
-    width: 100%;
-    transform: rotate(360deg);
+    /* width: 100%;  */
+    /* transform: rotate(0deg); */
     pointer-events: auto;
     visibility: visible;
     padding-bottom: 7rem;
